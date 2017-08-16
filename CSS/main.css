@@ -1,0 +1,53 @@
+.intro {
+  background-color: lightgrey;
+  padding: 20px;
+}
+
+.alain-picture {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.ted {
+  padding-left: auto;
+}
+
+#ted.success {
+  font-family: vollkorn; serif;
+  display: inline;
+}
+
+a {
+  font-family: Abrilfatface; vollkorn; serif;
+  display: inline;
+}
+
+/* unvisited link */
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+
+#ted-logo {
+  text-align: right;
+  heigth: 220px;
+  width: 220px;
+}
+
+li {
+
+}
